@@ -1,0 +1,11 @@
+.square {
+    background-color: white;
+    margin: 1rem 0;
+    width: 30%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    color: tomato;
+}
